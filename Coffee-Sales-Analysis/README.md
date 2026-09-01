@@ -38,19 +38,19 @@ Objective Build an interactive dashboard that helps management make better decis
 ## 🔄 Project Workflow
 
 Raw Transaction Data  
-↓  
+        ↓  
 Data Cleaning & Preparation  
-↓  
+        ↓  
 Sales & Time-Based Calculations  
-↓  
+        ↓  
 PivotTables  
-↓  
+        ↓  
 PivotCharts + KPIs  
-↓  
+        ↓  
 Interactive Slicers  
-↓  
+        ↓  
 Dashboard  
-↓  
+        ↓  
 Business Insights
 
 ---
@@ -102,11 +102,10 @@ The connected PivotTables, PivotCharts, and dashboard analysis update dynamicall
 
 ## 💡 Business Recommendations
 
-- Increase staffing and inventory availability during peak morning hours.
-- Use targeted promotions during lower-performing days and periods.
-- Maintain sufficient inventory for high-performing products such as Barista Espresso.
-- Analyze successful practices from Lower Manhattan and consider applying them to other stores.
-- Use historical day and month patterns for better inventory and workforce planning.
+- Increase staffing and inventory during peak morning hours.     
+- Focus promotions on weaker sales periods.     
+- Maintain stock of high-performing products.       
+- Use sales trends for better inventory and workforce planning.      
 
 ---
 
@@ -116,12 +115,10 @@ The connected PivotTables, PivotCharts, and dashboard analysis update dynamicall
 
 ---
 
-## 📁 Project Structure
+## 📌 Outcome
 
-```text
-coffee-sales-dashboard
-│
-├── Coffee_Sales_Dashboard.xlsx
-├── screenshots
-│   └── dashboard.png
-└── README.md
+- Converted raw transaction data into actionable insights.      
+- Identified top-performing stores, products, and categories.    
+- Found peak sales hours and high-performing days/months.       
+- Improved understanding of sales trends and customer demand.     
+- Supported better decisions for staffing, inventory, and promotions.      
